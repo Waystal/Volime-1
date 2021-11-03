@@ -9,7 +9,7 @@
          "title":"Happy thoughts, think happy thoughts!",
          "volume":"1",
          "groups": {"Fattyloveranon": "/proxy/api/imgur/chapter/4dN4OfI/"},
-         "last_updated":"1632233196"
+         "last_updated":"1635887849"
     },
     "2": {
       "title": "Beauty is a sin",
@@ -25,7 +25,15 @@
       "groups": {
         "Fattyloveranon": "/proxy/api/imgur/chapter/BNElP9i/"
       },
-      "last_updated": "1634595667"
+      "last_updated": "1635898649"
+	        },
+	  "4": {
+      "title": "He's the vice president",
+      "volume": "1",
+      "groups": {
+        "Fattyloveranon": "/proxy/api/imgur/chapter/As7YKEO/"
+      },
+      "last_updated": "1635959955"
     }
    }
 }
