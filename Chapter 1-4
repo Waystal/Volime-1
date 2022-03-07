@@ -3,43 +3,54 @@
    "description":"Yumeko wakes up after an accident with no memories but with a tremendous desire to live and be happy. Now, she must learn to know herself again and face the fears of her old self.",
    "artist":"Mamakari",
    "author":"Mamakari",
-   "cover":"https://i.imgur.com/3NZpicJ.png",
+   "cover":"https://i.imgur.com/VFjFhrb.png",
    "chapters": {
-      "6": {
-         "title":"Old self",
-         "volume":"2",
-         "groups": {"Fattyloveranon": "/proxy/api/imgur/chapter/QDPSFDS/"},
-         "last_updated":"1644489093"
+      "1": {
+         "title":"Happy thoughts, think happy thoughts!",
+         "volume":"1",
+         "groups": {"Fattyloveranon": "/proxy/api/imgur/chapter/4dN4OfI/"},
+         "last_updated":"1643176040"
     },
-    "7": {
-      "title": "Awkward smile",
-      "volume": "2",
-      "groups": {"Fattyloveranon": "/proxy/api/imgur/chapter/6njiZNI/"},
-         "last_updated":"1644557493"
+    "2": {
+      "title": "Beauty is a sin",
+      "volume": "1",
+      "groups": {
+        "Fattyloveranon": "/proxy/api/imgur/chapter/LQevRZC/"
       },
-	  "8": {
-      "title": "Charming features",
-      "volume": "2",
-      "groups": {"Fattyloveranon": "/proxy/api/imgur/chapter/Cfj2s6N/"},
-      "last_updated":"1644557493"
+      "last_updated": "1643176040"
+      "last_updated": "1643176594"
       },
-	  "9": {
-      "title": "A not so pleasant date with the vice prez",
-      "volume": "2",
-      "groups": {"Fattyloveranon": "/proxy/api/imgur/chapter/G7xokyj/"},
-      "last_updated":"1646655697"
+	  "3": {
+      "title": "A hard worker speaks out",
+      "volume": "1",
+      "groups": {
+        "Fattyloveranon": "/proxy/api/imgur/chapter/BNElP9i/"
       },
-	  "10": {
-      "title": "No such thing as a bad child",
-      "volume": "2",
-      "groups": {"Fattyloveranon": "/proxy/api/imgur/chapter/ywouC33/"},
-      "last_updated":"1646655697"
+      "last_updated": "1635898649"
+	        },
+	  "4": {
+      "title": "He's the vice president",
+      "volume": "1",
+      "groups": {
+        "Fattyloveranon": "/proxy/api/imgur/chapter/As7YKEO/"
       },
-	  "11": {
+      "last_updated": "1635959955"
+    },
+		  "5": {
+      "title": "Minami vs Yumeco",
+      "volume": "1",
+      "groups": {
+        "Fattyloveranon": "/proxy/api/imgur/chapter/vDsQ0d6/"
+      },
+      "last_updated": "1638060344"
+	  },
+	   "6": {
       "title": "Extra",
-      "volume": "2",
-      "groups": {"Fattyloveranon": "/proxy/api/imgur/chapter/GfQ5bPa/"},
-      "last_updated":"1646655697"
+      "volume": "1",
+      "groups": {
+        "Fattyloveranon": "/proxy/api/imgur/chapter/MAemCT0/"
+      },
+      "last_updated": "1638071233"
     }
    }
 }
